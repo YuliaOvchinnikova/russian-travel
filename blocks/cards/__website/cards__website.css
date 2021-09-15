@@ -1,0 +1,6 @@
+.cards__website {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
