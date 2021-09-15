@@ -8,22 +8,18 @@
   .places {
     max-width: calc(100% - 48px*2);
     /* width: 90.6%; */
-    /* margin: 92px auto 92px; */
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
     max-width: calc(100% - 24px*2);
-
     /* width: 93.8%; */
-    margin: 92px auto 92px;
   }
 }
 
 @media screen and (max-width: 319px) {
   .places {
     max-width: 100%;
-    margin: 92px auto 92px;
   }
 }
