@@ -1,7 +1,7 @@
 .lead__title {
-  max-width: 720px;
+  /* max-width: 720px; */
   /* min-height: 200px; */
-  /* max-width: 73.2%; */
+  max-width: 73.2%;
   color: #FFFFFF;
   font-size: 96px;
   line-height: 1.04;
@@ -11,26 +11,29 @@
   border: 1px solid red;
 }
 
-/* @media screen and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
   .lead__title {
     max-width: 77.6%;
+    font-size: 70px;
+    line-height: 1.1;
   }
-}*/
+}
 
 @media screen and (max-width: 767px) {
   .lead__title {
-    max-width: 100%;
+    max-width: 93.7%;
+    font-size: 52px;
+    line-height: 1.1;
   }
 }
 
 @media screen and (max-width: 319px) {
   .lead__title {
-    max-width: 100%;
+    /* max-width: 100%; */
     /* min-height: 88px; */
     margin: 0 auto 16px;
-
-    /* max-width: 90%; */
+    max-width: 90%;
     font-size: 40px;
-    line-height: 1.1;
+    line-height: 1.04;
   }
 }

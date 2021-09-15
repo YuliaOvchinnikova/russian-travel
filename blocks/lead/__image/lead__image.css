@@ -4,7 +4,7 @@
   min-height: 615px;
   background-repeat: no-repeat;
   background-position: left bottom;
-  object-fit: cover;
+  background-size: cover;
   object-position: top;
   margin: 64px auto 0;
   border: 1px solid red;
@@ -20,9 +20,9 @@
 
 @media screen and (max-width: 767px) {
   .lead__image {
-    /* max-width: 100%; */
-    max-width: 678px;
-    /* min-height: 480px; */
+    max-width: 100%;
+    /* max-width: 678px; */
+    min-height: 480px;
     margin: 56px auto 0;
   }
 }
