@@ -1,9 +1,13 @@
 # Проект: Путешествие по России
 
+В проекте использована технология @media для адаптивной верстки различных элементов и блоков для разных экранов выше 1280px, до 1279px, до 1023px и до 767px.
+Эспортирован шрифт через @font-face.
+
 ### Обзор
-* Интро
-* Figma
-* Картинки
+
+- Интро
+- Figma
+- Картинки
 
 **Интро**
 
@@ -13,7 +17,7 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 **Картинки**
 
