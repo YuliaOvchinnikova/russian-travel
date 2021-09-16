@@ -1,19 +1,20 @@
 .cards__paragraph {
-  margin-top: 0;
+  margin: 0;
+  padding: 0;
   font-weight: normal;
   font-size: 18px;
   line-height: 1.6;
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
   .cards__paragraph {
     font-size: 16px;
     line-height: 1.6;
   }
 }
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 767px) {
   .cards__paragraph {
     font-size: 16px;
     line-height: 1.6;
