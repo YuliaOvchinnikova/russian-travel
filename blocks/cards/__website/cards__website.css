@@ -1,4 +1,5 @@
 .cards__website {
+  margin: 0 16px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;

@@ -3,7 +3,7 @@
 @import url('../blocks/page/page.css');
 @import url('../blocks/body/body.css');
 @import url('../blocks/link/link.css');
-@import url('../blocks/link/_inactive/link_inactive.css');
+@import url('../blocks/link/_active/link_active.css');
 /* Заголовок */
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__lang-links/header__lang-links.css');
@@ -35,6 +35,7 @@
 @import url('../blocks/cards/__website/cards__website.css');
 @import url('../blocks/cards/__url-heading/cards__url-heading.css');
 @import url('../blocks/cards/__link/cards__link.css');
+@import url('../blocks/cards/__paragraphs/cards__paragraphs.css');
 @import url('../blocks/cards/__paragraph/cards__paragraph.css');
 /* На собаках */
 @import url('../blocks/cover/cover.css');
