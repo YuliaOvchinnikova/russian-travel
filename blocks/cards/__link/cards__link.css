@@ -1,4 +1,5 @@
 .cards__link {
+  text-decoration: underline;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.2;
