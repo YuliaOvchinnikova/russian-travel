@@ -1,29 +1,31 @@
-# Проект: Путешествие по России
+# Project: Traveling in Russia
 
-В проекте использована технология @media для адаптивной верстки различных элементов и блоков для разных экранов выше 1280px, до 1279px, до 1023px и до 767px.
-Эспортирован шрифт через @font-face.
+The goal of the project is implementing a webpage with styling and an adaptive layout of various elements and blocks. 
 
-[Сслыка на Github Pages](https://yuliaovchinnikova.github.io/russian-travel/index.html)
+[Link to Github Pages](https://yuliaovchinnikova.github.io/russian-travel/index.html)
 
-### Обзор
-
-- Интро
-- Figma
-- Картинки
-
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+# For this, I used CSS tools: 
+ - clear CSS for styling;
+ - @media technology for an adaptive layout (for different screens: above 1280px, up to 1279px, up to 1023px and up to 767px);
+ - @font-face to export font;
+ - The BEM methodology is to organize the project's file system;
 
 **Figma**
 
-- [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- [Link to layout in Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+**PerfectPixel**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+I used PixelPerfect HTML extension for perfect matching with Figma layout.
 
-Удачи!
+**Pictures**
+
+All pictures have been optimized through the [tinypng service](https://tinypng.com/)
+
+
+### Content of the website
+
+The content of the project presents landmarks in Russia: information about them, links to find out more and pictures.
+
+
+Thank you :)
