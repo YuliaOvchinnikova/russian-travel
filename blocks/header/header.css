@@ -2,8 +2,7 @@
   max-width: calc(100% - 48px*2);
   min-height: 70px;
   display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
+  flex-direction: column;
   margin: 0 auto;
 }
 
