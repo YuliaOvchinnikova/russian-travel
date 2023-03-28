@@ -1,4 +1,4 @@
-# Project: Traveling in Russia
+# Project: Trip plan
 
 The goal of the project is implementing a webpage with styling and an adaptive layout of various elements and blocks.
 
